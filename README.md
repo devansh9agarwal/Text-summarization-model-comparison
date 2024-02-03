@@ -20,7 +20,7 @@ I have used technique for order performance by similarity to ideal solution (TOP
   <li>Named Entity Precision</li>
   <li>Named Entity Recall</li> 
 </ul>
-
-**Result**
+<br>
+**Result** <br>
 ![image](https://github.com/devansh9agarwal/Text-summarization-model-comparison/assets/110768484/d9c83a95-082a-49d4-8835-73adb9cb5130)
 
