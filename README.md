@@ -22,4 +22,4 @@ I have used technique for order performance by similarity to ideal solution (TOP
 </ul>
 
 **Result**
-![image](https://github.com/devansh9agarwal/Text-summarization-model-comparison/assets/110768484/fd150870-0ad5-4fc0-8c2a-60fe39c77ec6)
+![image](https://github.com/devansh9agarwal/Text-summarization-model-comparison/assets/110768484/6adb03f9-9ba1-4c18-9aa1-85b244932428)
