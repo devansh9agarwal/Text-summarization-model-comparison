@@ -1,4 +1,5 @@
 # Text summarization model comparison using Topsis
+**Kaggle Notebook:** https://www.kaggle.com/devanshagarwal9/text-summarization-model-comparison-using-topsis <br>
 This project compares various text-summarization models available on Hugging Face. <br>
 These models are:
 <ul>
@@ -19,3 +20,6 @@ I have used technique for order performance by similarity to ideal solution (TOP
   <li>Named Entity Precision</li>
   <li>Named Entity Recall</li> 
 </ul>
+
+**Result**
+![image](https://github.com/devansh9agarwal/Text-summarization-model-comparison/assets/110768484/fd150870-0ad5-4fc0-8c2a-60fe39c77ec6)
